@@ -1,0 +1,23 @@
+{
+  "name": "tdd-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanreyga/tdd-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germanreyga/tdd-activity/issues"
+  },
+  "homepage": "https://github.com/germanreyga/tdd-activity#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
